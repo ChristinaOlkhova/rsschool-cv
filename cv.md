@@ -34,9 +34,7 @@ return $a * $b;
 ## Experience
 ## Education
  University: Ternopil Volodymyr Hnatiuk national pedagogical university; Philologist;
- 
- Courses: [Logos education](https://lviv.logos-academy.com/javascript-z-nulya-yak-staty-programistom-yakshho-ty-chajnyk), [RS School](https://rs.school/).
- ## Language
- Ukrainian-  native speaker;
- 
- English- A2
+ <p>Courses: [Logos education](https://lviv.logos-academy.com/javascript-z-nulya-yak-staty-programistom-yakshho-ty-chajnyk), [RS School](https://rs.school/).</p>
+## Language
+ <p>Ukrainian-  native speaker;</p>
+ <p>English- A2</p>
