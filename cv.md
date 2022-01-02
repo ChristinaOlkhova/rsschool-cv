@@ -1,6 +1,9 @@
 [rsshchool](https://github.com/ChristinaOlkhova)
 ---
-# Christina Olkhova
+# Christina Olkhova ![photo_2022-01ikiki-02_02-26-05](https://user-images.githubusercontent.com/96049884/147863100-77ec4812-f73a-4e0d-90e6-d944e6552140.jpg)
+
+
+
 ---
 ## Contacts
 ---
