@@ -1,0 +1,18 @@
+h2 {
+    color: red;
+    background-color: aqua
+}
+
+.header-paragraph {
+    color: rgb(0, 255, 34);
+    background-color: rgb(183, 0, 255)
+}
+
+#paragraph {
+    color: rgb(0, 204, 255);
+    background-color: rgb(255, 145, 0)
+}
+
+h1 {
+    color: rgb(183, 0, 255);
+    background-color: rgb(0, 255, 34)
